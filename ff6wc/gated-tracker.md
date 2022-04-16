@@ -28,6 +28,7 @@ Visit or refresh https://tracker.kielbasiago.com
 # Step 4 Test Connection
 ## Successful Connection 
 You will see the following if you are successfully connected: 
+
 ![connected successfully](https://i.imgur.com/MxaWnV6.png)
 
 <br>
@@ -35,6 +36,7 @@ You will see the following if you are successfully connected:
 ## Unsuccessful Connection
 
  You will see the following if there is an error: 
+ 
  ![tracker error](https://i.imgur.com/kS0ocIE.png)
 
 This means there was an intermittent error with Qusb2Snes. We don't get much context from it. If you are seeing this ensure steps 4 and 2 are complete.

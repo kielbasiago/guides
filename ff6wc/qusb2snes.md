@@ -27,24 +27,6 @@
 4c. sd2snes
 - Will add documentation as needed, reach out if you need help getting this set up so we can get the exact steps
 
-5. Visit https://tracker.kielbasiago.com - It will not work right away, that is next
 
-6. **IMPORTANT** You will need to whitelist the browser url before continuining. This can be done in one of two ways:
-- In your qusb2snes folder there is a `config.ini` file.
-    -  There is a `trustedOrigin` line, update it to use `https://tracker.kielbasiago.com` and `https://kielbasiago.com`
-    -  When all is said and done it should look like this: 
-```
-trustedOrigin=";https://tracker.kielbasiago.com;https://kielbasiago.com"
-```
-- Your first attempt to use the tracker should show you a prompt. Click "Yes" to whitelist it: https://kielbasiago.com/assets/3-trust-kiel.png
-
-7. Visit https://tracker.kielbasiago.com 
-
-7a. You will see the following if you are successfully connected:
-https://i.imgur.com/MxaWnV6.png
-
-7b. You will see the following if there is an error:
-https://i.imgur.com/kS0ocIE.png 
-This means there was an intermittent error with Qusb2Snes. We don't get much context from it. If you are seeing this ensure steps 4 and 6 are complete.
-
-@Kielbasiago#3699 in the FF6WC Discord #trackers channel if any issues or questions arise
+## Help
+Post for assistance in the [FF6WC](https://ff6wc.com/) discord #trackers channel if any issues or questions arise
