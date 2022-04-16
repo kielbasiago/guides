@@ -2,6 +2,7 @@
 You can add a Gamespad Viewer (GPV). I've hosted an SNES controller skin that you can use in OBS or wherever.
 
 ## Preview
+- ![SNES GamepadViewer](https://i.imgur.com/eIqnYu3.png)
 - https://i.imgur.com/wdluIWP.mp4
 - https://www.youtube.com/watch?v=qwtJUBSsO7A
 
