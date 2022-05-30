@@ -36,7 +36,7 @@
 - Expensive summons (125%)
 
 ### Scaling
-- All scaling is 1.5x average party level
+- All scaling is 1x average party level
 - Endgame abilities are unlocked out of the box
 - Max Scale level of 80
 - Scale final battle
