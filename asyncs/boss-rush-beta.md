@@ -19,7 +19,7 @@
 - Starting level 36
 - Start average level
 - 5 starting espers (Prefixed with * in spoiler log)
-- 50,000 GP
+- 50,000 GP (Items sell for 0, be careful with this)
 - Start with free imp set
 - Start with Warp (spell)
 - Start with Imp (spell)
@@ -51,6 +51,7 @@
 - 5x GP multiplier
 
 ### Misc
+- ITEMS SELL FOR 0 GP! USE YOUR MONEY WISELY!
 - 75% shop random
 - 80% chest random
 - B-Dash
