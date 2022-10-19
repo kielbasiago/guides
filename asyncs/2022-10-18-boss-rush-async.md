@@ -26,6 +26,7 @@ The following are a list of notable flags:
     * Bosses with multiple enemies (Like Stooges, Cranes.. **NOT** number 128, inferno, vargas, etc.) will give a larger amount of EXP due to this change
 
 ## Misc
+* Tiered shops
 * You can control characters in the coliseum
 * Narshe Battle (Kefka at Narshe) is now a guaranteed character or esper
 
