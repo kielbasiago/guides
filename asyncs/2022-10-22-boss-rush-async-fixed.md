@@ -13,7 +13,7 @@
 ## Scaling
 * Unscaled Final Boss
 * Scaled Dragons
-* Level - 2x C + E + D (starting enemy level 12)
+* Level - 2x C + E + D (starting enemy level 10)
 * HP/MP - 2x C + E + D 
 * EXP   - 2x C + E + D
 * **Beta** Bosses and dragons all have an exp rate of 130-150 per level (each boss rolls independently)
@@ -48,8 +48,8 @@ Video showing how it works: https://www.youtube.com/watch?v=dtlHM_naEoo
 * Once completed, you will end in the final switch room with 3 save points. You may not warp stone out once you complete the gauntlet. Make a backup save!
 
 **BETA** Forced Item Rewards - The following checks are guaranteed items:
-* All of Terra's checks
-* All of Celes' checks
+* All of Cyan's checks 
+* All of Shadow's checks 
 * Auction House
 
 **BETA** Forced Esper Rewards - The following checks are guaranteed espers:
