@@ -16,8 +16,8 @@
 * Level - 2.5x C + E + D (starting enemy level 12)
 * HP/MP - 2.5x C + E + D 
 * EXP   - 2.5x C + E + D
-* **Beta** Bosses and dragons all have an exp rate of 140 per level 
-    * This means all bosses will provide roughly the same exp. e.g. Whelk and TunnelArmor will give as much as Goddess or the dragons
+* **Beta** Bosses and dragons all have an exp rate of 130-150 per level (each boss rolls independently)
+    * This means all bosses will provide roughly the same exp. e.g. Whelk and TunnelArmor can give as much as Goddess or the dragons
     * For frame of reference here are the current xp values https://github.com/AtmaTek/WorldsCollide/blob/main/data/bosses_custom_exp.py
     * This is a buff to early game boss exp and a nerf to late-game boss exp
     * Bosses with multiple enemies will give more exp than usual with this changes 
@@ -27,6 +27,7 @@
         * **THESE BOSSES COUNT AS A SINGLE BOSS AND WILL NOT GRAND MORE EXP** - Number 128, Inferno, Vargas, Hidon, WrexSoul
 
 ## Misc
+* MP Cost for spells varies between 80-120% of normal cost
 * Start with 20 random "junk" items
 * Shuffled Shops (5% random)
 * You can control characters in the coliseum
