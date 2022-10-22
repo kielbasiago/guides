@@ -7,7 +7,6 @@
 * Starting Level 6
 * 3 starting character
 * 2 starting espers
-* B-Dash enabled
 * 3 Characters, 10 Espers required to unlock KT Gauntlet
 
 ## Scaling
