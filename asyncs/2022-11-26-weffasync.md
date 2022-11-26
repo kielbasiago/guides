@@ -13,14 +13,16 @@ Message Seedbot2000 in the WC discord with the following command on to get this 
 ### Unlock Final Kefka
 You must complete **"The Gauntlet"** before unlocking final kefka.
 
-During the gauntlet, you fight the five required KT fights back-to-back in the following order:
-   	- Inferno (Right Team)
-	- Guardian (Middle Team)
-	- Doom (Left Team)
-	- Goddess (Right Team)
-	- Poltrgeist (Middle Team)
-  - Gauntlet does not allow saving or menuing between fights
-  - Once completed you will end in the final switch room, able to leave or warp out to heal/save
+During the gauntlet, you will fight the five required KT fights back-to-back in the following order:
+- Inferno (Right Team)
+- Guardian (Middle Team)
+- Doom (Left Team)
+- Goddess (Right Team)
+- Poltrgeist (Middle Team)
+
+During the five encounters you are unable to save or menu.
+
+Once completed you will end in the final switch room, able to leave or warp out to heal/save
 
 ### Unlock Gauntlet
 The gauntlet is unlocked by completing 20 checks or killing 15 bosses
