@@ -7,7 +7,7 @@
 3. Open up your WC rom on your device
 4. Connect your device to SNI
 
-- 4a. **Snes9x-rrr**
+- 4a. **Snes9x-rr**
     -   Open Snes9x-rr and launch the luabridge script.
     - File > Lua Scripting > New Lua Window... 
         - ![new lua window](https://i.imgur.com/HJKlgtC.png)
